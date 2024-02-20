@@ -1,0 +1,10 @@
+pytest
+respx
+async_timeout
+jwt
+xmltodict
+envoy_utils
+numpy
+homeassistant
+pytest-asyncio
+syrupy.assertion

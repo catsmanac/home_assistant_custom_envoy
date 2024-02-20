@@ -1,0 +1,57 @@
+{
+  "production": 0,
+  "consumption": 278,
+  "net_consumption": "CTs consumption data not available for your Envoy device.",
+  "daily_production": 7438,
+  "daily_consumption": 9295,
+  "seven_days_production": 81354,
+  "seven_days_consumption": 63544,
+  "lifetime_production": 3226880,
+  "lifetime_net_production": "CTs consumption data not available for your Envoy device.",
+  "lifetime_consumption": 3902055,
+  "lifetime_net_consumption": "CTs consumption data not available for your Envoy device.",
+  "battery_storage": "Battery storage data not available for your Envoy device.",
+  "pf": 0.52,
+  "voltage": 234.339,
+  "frequency": 50.06,
+  "consumption_Current": 2.272,
+  "production_Current": 0.433,
+  "grid status": null,
+  "production l2": null,
+  "consumption l2": null,
+  "net_consumption l2": null,
+  "daily_production l2": null,
+  "daily_consumption l2": null,
+  "lifetime_production l2": null,
+  "lifetime_net_production l2": null,
+  "lifetime_consumption l2": null,
+  "lifetime_net_consumption l2": null,
+  "pf l2": null,
+  "voltage l2": null,
+  "frequency l2": null,
+  "consumption_Current l2": null,
+  "production_Current l2": null,
+  "active_inverters     ": "Active Inverter count not available for your Envoy device.",
+  "inverters_production": {
+    "12345678001": [
+      201,
+      "2023-08-07 15:50:41"
+    ],
+    "12345678002": [
+      202,
+      "2023-08-07 15:54:13"
+    ],
+    "12345678003": [
+      203,
+      "2023-08-07 15:55:09"
+    ],
+    "12345678004": [
+      204,
+      "2023-08-07 15:51:39"
+    ],
+    "12345678005": [
+      205,
+      "2023-08-07 15:51:11"
+    ]
+  }
+}

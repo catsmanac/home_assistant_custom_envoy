@@ -1,0 +1,59 @@
+{
+    "software_build_epoch": 1622651920,
+    "is_nonvoy": false,
+    "db_size": "12 MB",
+    "db_percent_full": "3",
+    "timezone": "Europe/Warsaw",
+    "current_date": "08/31/2023",
+    "current_time": "00:03",
+    "network": {
+        "web_comm": true,
+        "ever_reported_to_enlighten": true,
+        "last_enlighten_report_time": 1693432501,
+        "primary_interface": "wlan0",
+        "interfaces": [{
+                "type": "ethernet",
+                "interface": "eth0",
+                "mac": "00:1D:C0:79:7B:BC",
+                "dhcp": true,
+                "ip": "169.254.120.1",
+                "signal_strength": 0,
+                "signal_strength_max": 1,
+                "carrier": false
+            }, {
+                "signal_strength": 2,
+                "signal_strength_max": 5,
+                "type": "wifi",
+                "interface": "wlan0",
+                "mac": "20:D7:78:8E:16:25",
+                "dhcp": true,
+                "ip": "192.168.1.206",
+                "carrier": true,
+                "supported": true,
+                "present": true,
+                "configured": true,
+                "status": "connected"
+            }
+        ]
+    },
+    "tariff": "single_rate",
+    "comm": {
+        "num": 0,
+        "level": 0,
+        "pcu": {
+            "num": 0,
+            "level": 0
+        },
+        "acb": {
+            "num": 0,
+            "level": 0
+        },
+        "nsrb": {
+            "num": 0,
+            "level": 0
+        }
+    },
+    "alerts": [],
+    "update_status": "not-satisfied"
+}
+
